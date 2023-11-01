@@ -12,7 +12,7 @@
 <p align="center">
     🎉<b>A Big Thanks To All Our <a href="https://github.com/HDInnovations/UNIT3D-Community-Edition/graphs/contributors">Contributors</a> and <a href="https://github.com/sponsors/HDVinnie">Sponsors</a></b>🎉
 </p>
-This is a modified version of the original UNIT3D-Community-Edition to install via loval use only for testing purchases. It is not SECURE!!!!!
+This is a modified version of the original UNIT3D-Community-Edition to install via loCal use only for testing purchases. It is not SECURE!!!!!
 
 ## 📝 Table of Contents
 
