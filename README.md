@@ -69,7 +69,7 @@ UNIT3D currently offers the following features:
 
 ## <a name="installation"></a> 🖥️ Installation
 
-Check it out here for more information: https://github.com/HDInnovations/UNIT3D-Installer
+Check it out here for more information: https://github.com/wildfirebill/UNIT3D-Installer
 
 ### Demo Data
 
